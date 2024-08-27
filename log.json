@@ -1,0 +1,32 @@
+{
+    "level": "debug",
+    "feature": "airdrop",
+    "op": "PrepareMilestones",
+    "tuna": true,
+    "userID": "65388048aaddd6b8f29c4b66",
+    "minutesRequired": 80,
+    "thgRequired": 14980392.019855583,
+    "shareRate": 0.10500000000000001,
+    "baseAirdrop": 1572941.1620848363,
+    "actAirdrop": 1730235.27829332,
+    "rewardType": 2,
+    "effects": {
+      "ROI": 0,
+      "Marketing": 1,
+      "Inflation": 0,
+      "Equipment": 0
+    },
+    "reward": {
+      "type": 2,
+      "currency": {
+        "type": 7,
+        "name": "gTHW",
+        "value": 1730235000000,
+        "decimals": 8
+      }
+    },
+    "time": "2024-08-12T08:54:19Z",
+    "caller": "airdropservice/builder.go:139",
+    "message": "prepare milestone"
+  }
+  
